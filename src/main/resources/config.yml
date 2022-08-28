@@ -8,5 +8,15 @@ Y: 127
 #banish player after trying to climb into nether roof
 Ban: false
 
+#kick player after trying to climb into nether roof
+Kick: false
+
+#Play sound after player trying to climb into nether roof
+Sound: true
+
 #chat alert
 Alert: true
+
+#Cmd log
+Log: true
+
