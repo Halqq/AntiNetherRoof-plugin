@@ -1,0 +1,12 @@
+AntiRoofNether:
+
+#author @Halq
+
+#Nether roof cord Y
+Y: 127
+
+#banish player after trying to climb into nether roof
+Ban: false
+
+#chat alert
+Alert: true

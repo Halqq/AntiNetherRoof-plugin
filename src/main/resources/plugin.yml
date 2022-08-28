@@ -1,0 +1,4 @@
+name: AntiRoofNether
+version: '${project.version}'
+main: halq.antiroofnether.AntiRoofNether
+authors: [ Halq ]
