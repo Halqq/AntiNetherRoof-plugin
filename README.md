@@ -1,6 +1,6 @@
 # NetherFix-plugin
 
-this is basic anti nether roof for paper 1.12.2...
+this is basic nether fix for paper 1.12.2...
 
 this banish player after trying to climb into nether cover
 
