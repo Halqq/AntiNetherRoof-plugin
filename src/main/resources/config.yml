@@ -1,9 +1,12 @@
-AntiRoofNether:
+NetherFix:
 
 #author @Halq
 
 #Nether roof cord Y
-Y: 127
+Y: 126
+
+#Teleport player
+Teleport: true
 
 #banish player after trying to climb into nether roof
 Ban: false
@@ -19,4 +22,12 @@ Alert: true
 
 #Cmd log
 Log: true
+
+#Kill Player
+Kill: false
+
+#this remove player for vehicle
+AntiVeihicleBypass: true
+
+
 

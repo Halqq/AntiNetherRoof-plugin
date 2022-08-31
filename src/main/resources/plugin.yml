@@ -1,4 +1,4 @@
-name: AntiRoofNether
+name: NetherFix
 version: '${project.version}'
-main: halq.antiroofnether.AntiRoofNether
+main: halq.netherFix.NetherFix
 authors: [ Halq ]
