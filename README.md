@@ -9,3 +9,7 @@ this banish player after trying to climb into nether cover
 ![image](https://user-images.githubusercontent.com/72313113/187571668-8404a0a6-4b15-400a-965f-ff7faefd3b62.png)
 
 thank you
+
+# TODO:
+add anti portal trap
+add anti nether floor
