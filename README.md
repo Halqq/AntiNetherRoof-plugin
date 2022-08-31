@@ -1,4 +1,4 @@
-# AntiNetherRoof-plugin
+# NetherFix-plugin
 
 this is basic anti nether roof for paper 1.12.2...
 
